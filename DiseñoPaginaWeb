@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Boran - Servicio Técnico</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: orange;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: blue;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .descripcion {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            line-height: 1.6;
+        }
+        .whatsapp {
+            color: blue;
+            font-size: 24px;
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dr. Boran - Reparación de Lap Top, Celulares y PC</h1>
+    
+    <div class="descripcion">
+        <p>Se realiza:</p>
+        <ul>
+            <li>Cambios de display (de cualquier marca y modelo incluyendo Apple)</li>
+            <li>Cambio de centros de carga</li>
+            <li>Desbloqueo cuentas gmail en android</li>
+            <li>Mantenimiento preventivo nivel 1 y 2</li>
+            <li>Cambio de batería</li>
+            <li>Recuperación de información en disco duro solido y disco duro mécanico</li>
+            <li>Instalación del sistema operativo (Windows, Linux, MacOS)</li>
+        </ul>
+    </div>
+
+    <div class="whatsapp">
+        WhatsApp: 5551362230
+    </div>
+</body>
+</html>
